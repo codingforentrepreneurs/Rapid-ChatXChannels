@@ -1,5 +1,8 @@
 # Rapid-ChatXChannels
-A rapid fire tutorial and introduction of Django Channels. To get more indepth check out the full course https://www.codingforentrepreneurs.com/courses/chat-channels-react
+A rapid fire tutorial and introduction of Django Channels. To get more in-depth check out the full course https://kirr.co/badl8e
+
+
+YouTube Video: __coming soon__
 
 
 
