@@ -19,6 +19,7 @@ $ virtualenv -p python3 .
 $ source bin/activate
 (channels-rapid) $ pip install -r requirements.txt
 (channels-rapid) $ cd src
+(channels-rapid) $ python manage.py migrate
 (channels-rapid) $ python manage.py createsuperuser
 ... do the creation
 (channels-rapid) $ python manage.py createsuperuser
